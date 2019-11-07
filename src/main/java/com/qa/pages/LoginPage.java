@@ -10,4 +10,8 @@ public class LoginPage {
 		System.out.println("----Login Set  Page----");
 	}
 
+	public void loginSet2() {
+		System.out.println("----Login Set2  Page----");
+	}
+
 }
