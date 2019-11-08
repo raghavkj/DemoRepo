@@ -11,7 +11,11 @@ public class LoginPage {
 	}
 
 	public void loginSet2() {
-		System.out.println("----Login Set2  Page----");
+		System.out.println("----Login Set2 Editing  Page----");
+	}
+
+	public void loginSet3() {
+		System.out.println("----Login Set3  Page----");
 	}
 
 }
