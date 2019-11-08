@@ -11,7 +11,7 @@ public class TestBase {
 	}
 
 	public void testBase3() {
-		System.out.println("Adding new Method");
+		System.out.println("Adding new Method--->");
 	}
 
 }
